@@ -49,3 +49,23 @@ General ETL Process 🔄
 Conclusion 🎉
 
 By following these steps, you’ll have successfully transformed your data using Spark in Synapse Studio. This process is vital for data engineers and data analysts working with large datasets in cloud environments, providing them with the tools to effectively handle and analyze data. 🚀
+
+## screenshot
+
+<img width="982" alt="1" src="https://github.com/user-attachments/assets/b4aff107-82da-45b6-8424-6ee963f6ae91" />
+
+
+<img width="979" alt="2" src="https://github.com/user-attachments/assets/64424e27-5361-41d3-9a30-780ccbb6eb3b" />
+
+
+<img width="979" alt="3" src="https://github.com/user-attachments/assets/55c1ad1d-e01b-4d4a-9cf8-c77f7d7efba7" />
+
+
+<img width="979" alt="4" src="https://github.com/user-attachments/assets/3dbf6b61-7a9d-49f1-ba88-639a664f353c" />
+
+
+<img width="974" alt="5" src="https://github.com/user-attachments/assets/836b29de-0530-40a6-bc0c-1809c3445232" />
+
+
+<img width="980" alt="6" src="https://github.com/user-attachments/assets/6c4af666-8552-4e5e-9986-57b73c312b81" />
+
