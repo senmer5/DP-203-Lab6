@@ -50,7 +50,7 @@ Conclusion 🎉
 
 By following these steps, you’ll have successfully transformed your data using Spark in Synapse Studio. This process is vital for data engineers and data analysts working with large datasets in cloud environments, providing them with the tools to effectively handle and analyze data. 🚀
 
-## screenshot
+## Screenshots
 
 <img width="982" alt="1" src="https://github.com/user-attachments/assets/b4aff107-82da-45b6-8424-6ee963f6ae91" />
 
